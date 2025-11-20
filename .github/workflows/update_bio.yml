@@ -25,6 +25,6 @@ jobs:
 
       - name: Update GitHub Bio
         env:
-          GITHUB_TOKEN: ${{ secrets.BIO_TOKEN }}
+          BIO_TOKEN: ${{ secrets.BIO_TOKEN }}
         run: |
           python update_bio.py
