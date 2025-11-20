@@ -1,1 +1,6 @@
-![Stars](https://img.shields.io/github/stars/nova9?style=for-the-badge)
+> Current Honorific:  
+> <HONORIFIC>
+
+---
+
+Welcome! This honorific rotates automatically every few minutes.
