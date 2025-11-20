@@ -1,7 +1,3 @@
-# 👋 Welcome to My GitHub Profile!
-
-<img src="./assets/clown.gif" width="50%" height="50%"/>
-
 ## 🐍 Contribution Snake
 
 <picture>
