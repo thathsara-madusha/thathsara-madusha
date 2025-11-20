@@ -1,6 +1,8 @@
-> Current Honorific:  
-> The Immortal Lord of Heaven and Earth for Blessings
+# Welcome!
+
+**Current Title:**  
+<HONORIFIC>
 
 ---
 
-Welcome! This honorific rotates automatically every few minutes.
+Hi there! This label updates automatically every few minutes.
