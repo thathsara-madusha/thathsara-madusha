@@ -1,6 +1,6 @@
 # Welcome!
 
-**Current Title:**  The Exalted Thearch of Heaven and Earth for Blessings
+**Current Title:**  The Celestial Worthy of Heaven and Earth for Blessings
 
 ---
 
