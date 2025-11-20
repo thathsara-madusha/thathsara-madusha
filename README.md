@@ -1,6 +1,6 @@
 # Welcome!
 
-**Current Title:**  The Celestial Worthy of Heaven and Earth for Blessings
+**Current Title:**  The Immortal Lord of Heaven and Earth for Blessings
 
 ---
 
