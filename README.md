@@ -1,6 +1,6 @@
 # Welcome!
 
-**Current Title:**  The Sky Lord of Heaven and Earth for Blessings
+**Current Title:**  The Exalted Thearch of Heaven and Earth for Blessings
 
 ---
 
