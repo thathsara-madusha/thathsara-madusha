@@ -1,3 +1,10 @@
+honorifics = [
+    "The Immortal Lord of Heaven and Earth for Blessings",
+    "The Sky Lord of Heaven and Earth for Blessings",
+    "The Exalted Thearch of Heaven and Earth for Blessings",
+    "The Celestial Worthy of Heaven and Earth for Blessings"
+]
+
 # Read README.md
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()

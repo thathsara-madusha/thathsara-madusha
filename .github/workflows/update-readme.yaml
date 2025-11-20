@@ -1,6 +1,9 @@
 name: Rotate Honorific
 
 on:
+  push:
+    branches:
+      - main  # or whichever branch you want
   schedule:
     - cron: "*/5 * * * *"  # every 5 minutes
   workflow_dispatch:
