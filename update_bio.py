@@ -1,7 +1,10 @@
 import os
 import requests
-from dotenv import load_dotenv
-load_dotenv()
+
+# Only load dotenv when running locally (not in CI/workflows)
+if not os.environ.get('CI') and not os.environ.get('GITHUB_ACTIONS'):
+    from dotenv import load_dotenv
+    load_dotenv()
 
 honorifics = [
     "The Immortal Lord of Heaven and Earth for Blessings",
