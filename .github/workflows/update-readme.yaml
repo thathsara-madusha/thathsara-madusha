@@ -1,11 +1,11 @@
 name: Rotate Honorific
 
 on:
-  push:
-    branches:
-      - main  # or whichever branch you want
-  schedule:
-    - cron: "*/5 * * * *"  # every 5 minutes
+  # push:
+  #   branches:
+  #     - main  # or whichever branch you want
+  # schedule:
+  #   - cron: "*/5 * * * *"  # every 5 minutes
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Update Honorific
         run: python update_honorific.py
@@ -29,4 +29,3 @@ jobs:
           git add README.md
           git commit -m "Rotate honorific" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/thathsara-madusha/thathsara-madusha.git HEAD:main
-
