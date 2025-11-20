@@ -1,5 +1,5 @@
 > Current Honorific:  
-> <HONORIFIC>
+> The Immortal Lord of Heaven and Earth for Blessings
 
 ---
 
