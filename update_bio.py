@@ -7,10 +7,26 @@ if not os.environ.get('CI') and not os.environ.get('GITHUB_ACTIONS'):
     load_dotenv()
 
 honorifics = [
+    "Professional Googler of Stack Overflow",
+    "Senior Vice President of Copy-Paste Engineering",
+    "Chief Architect of 'Works on My Machine' Solutions",
     "The Immortal Lord of Heaven and Earth for Blessings",
     "The Sky Lord of Heaven and Earth for Blessings",
+    "The Celestial Worthy of Heaven and Earth for Blessings",
+    "Supreme Overlord of Semicolons and Coffee Beans",
+    "Grand Master of Infinite Loops and Rubber Ducks",
+    "His Majesty, Breaker of Builds, Pusher of Code",
+    "The One Who Merges Without Reading",
+    "Eternal Battler of Merge Conflicts",
+    "The Great Debugger Who Adds Print Statements",
+    "Master of the Sacred Art of Ctrl+Z",
     "The Exalted Thearch of Heaven and Earth for Blessings",
-    "The Celestial Worthy of Heaven and Earth for Blessings"
+    "Legendary Warrior Against Production Bugs at 3 AM",
+    "The Chosen One Who Understands Regex (Barely)",
+    "Supreme Commander of TODO Comments",
+    "His Excellence, Avoider of Documentation",
+    "Grand Wizard of Stack Traces and Error Messages",
+    "The Mighty Optimizer of Premature Optimizations"
 ]
 
 def get_current_bio(token):
