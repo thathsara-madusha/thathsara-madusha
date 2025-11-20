@@ -25,7 +25,7 @@ else:
 
 # Replace old honorific (or placeholder) with the new one
 if current_honorific:
-    content.replace(current_honorific, next_honorific)
+    content = content.replace(current_honorific, next_honorific)
 else:
     content = content.replace("<HONORIFIC>", next_honorific)
 
